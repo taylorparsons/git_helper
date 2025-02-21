@@ -1,14 +1,12 @@
-
-```markdown
 # Git Helper
 
-This repository is a collection of essential Git commands and a visual sequence diagram for understanding how Git workflows operate. If you ever find yourself stuck in the weeds with Git, this should help you get back on track.
+This repository is a collection of essential Git commands and a visual sequence diagram for understanding Git workflows. If you ever find yourself tangled up in Git, this should help you get back on track.
 
 ---
 
 ## 📌 What's Inside
-- **`git_commands.md`** – A table of Git commands, why they matter, and how to test them.
-- **`git_seq.puml`** – A PlantUML sequence diagram to visualize Git operations.
+- **[git_commands.md](git_commands.md)** – A table of Git commands, why they matter, and how to test them.
+- **[git_seq.puml](git_seq.puml)** – A PlantUML sequence diagram to visualize Git operations.
 
 ---
 
@@ -26,7 +24,7 @@ cd git_helper
 
 ## 📖 Using the Git Command Reference
 
-The **`git_commands.md`** file is a quick reference guide with:
+The **[git_commands.md](git_commands.md)** file serves as a quick reference guide with:
 - The most common Git commands.
 - Explanations for when and why you’d use them.
 - Simple tests to confirm they worked.
@@ -48,7 +46,7 @@ code git_commands.md
 
 ## 📊 Visualizing Git Workflows
 
-If you're a visual learner, the **`git_seq.puml`** file provides a sequence diagram to help understand Git operations.
+If you're a visual learner, the **[git_seq.puml](git_seq.puml)** file provides a sequence diagram to help understand Git operations.
 
 ### 🔹 Viewing the Diagram
 To render the diagram, you'll need [PlantUML](https://plantuml.com/):
@@ -112,10 +110,7 @@ If Git is giving you trouble, here are some quick fixes:
   git status
   ```
 
-For more troubleshooting, refer to **`git_commands.md`** or reach out.
+For more troubleshooting, refer to **[git_commands.md](git_commands.md)** or reach out.
 
 ---
 
-### 🏁 That’s It!
-Now go forth and version your code like a pro. 🚀
-```
